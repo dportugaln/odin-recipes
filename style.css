@@ -1,0 +1,36 @@
+* {
+    background-color: greenyellow;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.title, .subtitle {
+    color: rgb(151, 149, 34);
+    text-decoration: underline;
+}
+
+.title {
+    text-align: center;
+}
+
+.list, li, li a {
+    color: black;
+    font-weight: bold;
+    background-color: yellow;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.image {
+    height: auto;
+    width: 300px;
+}
+
+.lead {
+    font-weight: 100px;
+    font-style: italic;
+}
+
+.home {
+    font-weight: bold;
+    font-size: 30px;
+}
